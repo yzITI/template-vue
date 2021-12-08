@@ -16,6 +16,11 @@ In the target folder,
 degit yzITI/template-web
 ```
 
+Change project name in  `package.json`
+```
+"name": "project-name"
+```
+
 Install dependency
 
 ```
