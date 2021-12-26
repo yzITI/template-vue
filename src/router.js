@@ -6,4 +6,12 @@ const index = {
 
 const routes = []
 for (const r in index) routes.push({ path: r, component: index[r] })
-export default createRouter({ history: createWebHashHistory(), routes })
+const router = createRouter({ history: createWebHashHistory(), routes }) 
+
+router.beforeEach(() => { NProgress.start() })
+router.afterEach(() => {
+  Swal.close()
+  NProgress.done()
+})
+
+export default router
