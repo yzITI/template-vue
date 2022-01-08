@@ -6,17 +6,7 @@ CDN Library: axios + SweetAlert2 + NProgress
 
 ## Get Started
 
-Install [degit](https://github.com/Rich-Harris/degit):
-
-```
-npm i -g degit
-```
-
-In the target folder,
-
-```
-degit yzITI/template-web
-```
+Click **Use Template** or this [link](https://github.com/yzITI/template-web/generate).
 
 Change project name in  `package.json` and `index.html`
 ```
