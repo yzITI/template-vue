@@ -1,5 +1,5 @@
 <script setup>
-const cot = $ref(0)
+let cot = $ref(0)
 
 function inc () {
   cot++
