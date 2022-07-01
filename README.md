@@ -1,6 +1,6 @@
 # template-web
 
-Vite + Vue 3 + VueRouter 4 + TailwindCSS + Heroicons
+Vite + Vue 3 + VueRouter 4 + TailwindCSS + Heroicons + Moment
 
 CDN Library: axios + SweetAlert2 + NProgress
 
