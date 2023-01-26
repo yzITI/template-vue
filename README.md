@@ -2,7 +2,7 @@
 
 Vite + Vue 3 + VueRouter 4 + TailwindCSS + Heroicons
 
-CDN Library: axios + SweetAlert2 + NProgress + Momentjs
+CDN Library: SweetAlert2 + NProgress + Momentjs
 
 ## Get Started
 
